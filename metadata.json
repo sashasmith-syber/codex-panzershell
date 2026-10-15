@@ -1,0 +1,8 @@
+{
+  "name": "CODEX Prime Panzershell",
+  "description": "A high-security, hardened AI dashboard and chat interface featuring real-time threat detection, anomaly scoring, and system monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
